@@ -9,6 +9,6 @@ https://doi.org/10.3390/rs13030389
 
 You can view **"training.ipynb"** and **"prediction.ipynb"** directly on GitHub, or clone the repository, install dependencies listed in the notebook and play with code locally.
 
-# Graphical abstract
+## Graphical abstract
 ![Training](./images/gabstract.png "Graphical abstract")
 
